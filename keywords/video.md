@@ -60,7 +60,7 @@ This collection from UT-Austin’s Digital Writing and Research Lab (DWRL) offer
 * Copy of Artifact: forthcoming
 * Creators: Justin Hodgson and The JUMP Collective (Indiana University and The University of Texas at Austin)
 
-Geared toward student multimedia, *The Jump* is a great resource for instructors interested in helping undergraduates publish video-based research. Each project is accompanied by an author’s statement that includes reflections on the composing process. Publications also include pedagogical materials that support the student projects: assignments, details about the course, *etc*. And each project is accompanied by an instructor reflection, offering more details about the pedagogical dimensions of the projects. Of particular interest are projects such as Megan Cross’s “Re-Presentation: Kate Chopin’s The Story of an Hour.” This project, a video made with PowerPoint, reminds us that when we talk about video, we are not simply talking about iMovie or cameras. Many contemporary compositional tools can be appropriated for working with the moving image. This resource might provide an authentic publishing venue for video projects. It also provides a wealth of student examples and sample instructional materials.
+Geared toward student multimedia, *The Jump* is a great resource for instructors interested in helping undergraduates publish video-based research. Each project is accompanied by an author’s statement that includes reflections on the composing process. Publications also include pedagogical materials that support the student projects: assignments, information about the course, *etc*. And each project is accompanied by an instructor reflection, offering more details about the pedagogical dimensions of the projects. Of particular interest are projects such as Megan Cross’s “Re-Presentation: Kate Chopin’s The Story of an Hour.” This project, a video made with PowerPoint, reminds us that when we talk about video, we are not simply talking about iMovie or cameras. Many contemporary compositional tools can be appropriated for working with the moving image. This resource might provide an authentic publishing venue for video projects. It also provides a wealth of student examples and sample instructional materials.
 
 ### “North Carolina Stories"
 ![screenshotENGL318.jpg](http://siteslab.org/keywordvideo/screenshotENGL318.jpg)
@@ -96,7 +96,7 @@ Ilit collects the projects and reflections of students in an Introduction to Lit
 * Copy of Artifact: forthcoming
 * Creator: Virginia Kuhn (University of Southern California) and the *International Journal of Learning and Media*
 
-This site captures and reports on the work of a class: IML 340: "The Praxis of New Media." The focus is on the intellectual components of digital video, especially the argumentative and rhetorical affordances of video modes and their connections to digital literacy. Particularly valuable within the Digital Pedagogy thread is Kuhn’s discussion of a digital argument, which she defines as an argument “that is born-digital and uses the various affordances of emergent technologies intentionally.” Additionally, Kuhn challenges the notion that audio-visual media are too ephemeral for sustained analysis, arguing that digitization allows for the "patience that books possess." The site provides a valuable resource for reflecting on the intellectual benefits and challenges of doing work with video. Finally, Kuhn’s use of the Scalar platform for publication of the work invites speculation towards the role that such platforms might play in video work, in terms of both delivery and analysis.
+This site captures and reports on the work of a class: IML 340, "The Praxis of New Media." The focus is on the intellectual components of digital video, especially the argumentative and rhetorical affordances of video modes and their connections to digital literacy. Particularly valuable within the Digital Pedagogy thread is Kuhn’s discussion of digital argument, which she defines as argument “that is born-digital and uses the various affordances of emergent technologies intentionally.” Additionally, Kuhn challenges the notion that audio-visual media are too ephemeral for sustained analysis, arguing that digitization allows for the "patience that books possess." The site provides a valuable resource for reflecting on the intellectual benefits and challenges of doing work with video. Finally, Kuhn’s use of the Scalar platform for publication of the work invites speculation towards the role that such platforms might play in video work, in terms of both delivery and analysis.
 
 ### "Teaching Resources for Video and Emerging Media"
 ![screenshotPROCTOR.jpg](http://siteslab.org/keywordvideo/screenshotPROCTOR.jpg)
@@ -105,7 +105,7 @@ This site captures and reports on the work of a class: IML 340: "The Praxis of N
 * Copy of Artifact: forthcoming
 * Creator: Jennifer Proctor (University of Michigan, Dearborn)
 
-Jennifer Proctor’s “Teaching Resources” page offers a range of materials including assignments that move from traditional audio-visual work to more contemporary genres (such as vlogs and mash-ups) to emerging web-based video applications, such as Vine and Zeega. Proctor’s pedagogy looks ahead to web-based, networked video-making. For example, included here is a “Loop Assignment” using GIFs and Vines and an “Augmented Reality Assignment” using the Aurasma platform. These kinds of assignments complicate traditional notions of videography. When students begin working with these alternative approaches, the agencies of an application like Instagram or the smartphone used potentially come as much to the fore as the rhetorical agency of the video-maker. This can help students to see video-making not only as a tool to be harnessed in the service of familiar rhetorical goals but also as an emergent mode that represents the shifting actors and agencies at work in digital composing spaces.
+Jennifer Proctor’s “Teaching Resources” page offers a range of materials including assignments that move from traditional audio-visual work to more contemporary genres (such as vlogs and mash-ups) to emerging web-based video applications, such as Vine and Zeega. Proctor’s pedagogy looks ahead to web-based, networked video-making. For example, included here is a “Loop Assignment” using GIFs and Vines and an “Augmented Reality Assignment” using the Aurasma platform. These kinds of assignments complicate traditional notions of videography. When students begin working with these alternative approaches, the agencies of an application like Instagram or the smartphone come as much to the fore as the rhetorical agency of the video-maker. This can help students to see video-making not only as a tool to be harnessed in the service of familiar rhetorical goals but also as an emergent mode that represents the shifting actors and agencies at work in digital composing spaces.
 
 ### "Post-Industrial Video 0.5"
 ![screenshotPIV.jpg](http://siteslab.org/keywordvideo/screenshotPIV.jpg)
@@ -123,7 +123,7 @@ With this site, Adrian Miles presents his curriculum for “post-industrial vide
 * Copy of Artifact: forthcoming
 * Creator: Justin Lincoln (Whitman College)
 
-This resource and the pedagogy it represents fall squarely on the post-cinematic side of our digital video continuum. Assignments range from glitching images to processing-based animations to remix video responses. The materials provide an invitation to experiment with the dynamics of signal and noise, using videos to explore the role of machinic processing and social media in composing. Of particular interest is the way Lincoln’s pedagogy enacts a video paradigm built around the shifting relationships between humans and technology. While instructors might cull assignments or examples from the Tumblr stream, the site (and Lincoln’s [Notational Tumblr](http://notational.tumblr.com) might best be used as illustrative examples/enactments of how video pedagogy can help students and instructors participate in ever-expanding networks of media, devices, machineries, and humans.
+This resource and the pedagogy it represents fall squarely on the post-cinematic side of our digital video continuum. Assignments range from glitching images to creating processing-based animations to remix video responses. The materials provide an invitation to experiment with the dynamics of signal and noise, using videos to explore the role of machinic processing and social media in composing. Of particular interest is the way Lincoln’s pedagogy enacts a video paradigm built around the shifting relationships between humans and technology. While instructors might cull assignments or examples from the Tumblr stream, the site (and Lincoln’s [Notational Tumblr](http://notational.tumblr.com) might best be used as illustrative examples/enactments of how video pedagogy can help students and instructors participate in ever-expanding networks of media, devices, machines, and humans.
 
 ### "Introduction to Humanities Physical Computing w/Arduino and Processing"
 ![screenshotRIEDER.jpg](http://siteslab.org/keywordvideo/screenshotRIEDER.jpg)
@@ -132,7 +132,7 @@ This resource and the pedagogy it represents fall squarely on the post-cinematic
 * Copy of Artifact: forthcoming
 * Creator: David M. Rieder (North Carolina State University)
 
-David Reider’s course syllabus for “Introduction to Humanities Physical Computing w/Arduino and Processing” presents an introductory curriculum for engaging with even more new processes from which new conceptions of video might emerge. Reider’s course does not specifically take up video; however, it does offer a map for both a theoretical and a hands-on introduction to “the computational and physical/material bases of electronic media.” We have included it here as a provocation of sorts. For example, while most syllabi frame video projects as “Video Essays” or “Mashups” (both relatively recognizable products), the projects in Reider’s course include such things as a “Sensable Object.” “Interactive sound and light show[s] with sensor, buttons, and switches.” Why not, in an era of drones and facial recognition software, imagine the future of the moving image in the most capacious ways we can? Reider has also taught an [undergraduate variation](http://siteslab.org/resources/IP_295_001_RIEDER.pdf) of this course.
+David Reider’s course syllabus for “Introduction to Humanities Physical Computing w/Arduino and Processing” presents an introductory curriculum for engaging with even more new processes from which conceptions of video might emerge. Reider’s course does not specifically take up video; however, it does offer a map for both a theoretical and a hands-on introduction to “the computational and physical/material bases of electronic media.” We have included it here as a provocation of sorts. For example, while most syllabi frame video projects as “Video Essays” or “Mashups” (both relatively recognizable products), the projects in Reider’s course include such things as a “Sensable Object.” “Interactive sound and light show[s] with sensors, buttons, and switches.” Why not, in an era of drones and facial recognition software, imagine the future of the moving image in the most capacious ways we can? Reider has also taught an [undergraduate variation](http://siteslab.org/resources/IP_295_001_RIEDER.pdf) of this course.
 
 ## RELATED MATERIALS
 
@@ -149,6 +149,32 @@ Halbritter, Bump. “Big Questions, Small Works, Lots of Layers: Documentary Vid
 
 ## WORKS CITED
 
-Sterling, Bruce. "An Essay on the New Aesthetic." *Wired*. 02 Apr. 2012. Web. 14 Jan. 2014,
+Dogme -- Celebration
+
+Dogme -- Idiots
+
+Kopple Hoop Dreams
+
+Spurlock Super Size Me
+
+Digital Writing and Research Lab
+
+Jump Journal
+
+North Carolina Stories
+
+DV Lab
+
+Ilit
+
+Filmic Texts
+
+Teaching Resources --Proctor
+
+Post-Industrial Video
+
+Iterative Progress
+
+Intro to Humanities Physical Computing
 
 Tinnell, John. "Post-Media Occupations for Writing Theory: From Augmentation to Autopoiesis." *Ecology, Writing Theory, and New Media*. Ed. Sidney L. Dobrin, New York: Routledge, 2012. Print.
