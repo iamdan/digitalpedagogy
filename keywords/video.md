@@ -56,20 +56,20 @@ This collection from UT-Austin’s Digital Writing and Research Lab (DWRL) offer
 ### *The JUMP* Journal
 ![screenshotJUMP.jpg](http://siteslab.org/keywordvideo/screenshotJUMP.jpg)
 
-* Source URL: <http://jump.dwrl.utexas.edu>
+* Source URL: <https://jumpplus.net>
 * Copy of Artifact: forthcoming
 * Creators: Justin Hodgson and The JUMP Collective (Indiana University and The University of Texas at Austin)
 
 Geared toward student multimedia, *The Jump* is a great resource for instructors interested in helping undergraduates publish video-based research. Each project is accompanied by an author’s statement that includes reflections on the composing process. Publications also include pedagogical materials that support the student projects: assignments, information about the course, *etc*. And each project is accompanied by an instructor reflection, offering more details about the pedagogical dimensions of the projects. Of particular interest are projects such as Megan Cross’s “Re-Presentation: Kate Chopin’s The Story of an Hour.” This project, a video made with PowerPoint, reminds us that when we talk about video, we are not simply talking about iMovie or cameras. Many contemporary compositional tools can be appropriated for working with the moving image. This resource might provide an authentic publishing venue for video projects. It also provides a wealth of student examples and sample instructional materials.
 
-### “North Carolina Stories"
-![screenshotENGL318.jpg](http://siteslab.org/keywordvideo/screenshotENGL318.jpg)
+### "Animating Imaginary Worlds: A Digital-Meets-Handmade Animation Workshop Kit"
+![screenshotAnimatingImaginaryWorlds.jpeg](http://siteslab.org/keywordvideo/screenshotAnimatingImaginaryWorlds.jpeg)
 
-* Source URL: <http://www.unc.edu/~twtaylor/318/>
+* Source URL: <http://hyperrhiz.io/hyperrhiz13/workshops-kits/imaginary-worlds.html>
 * Copy of Artifact: forthcoming
-* Creator: Todd Taylor (The University of North Carolina at Chapel Hill)
+* Creator: Lynn Tomlinson (Towson University) and Diane Kuthy (Towson University)
 
-Todd Taylor’s ENGL 318 course site features materials related to the production of student documentaries during the Fall 2014 iteration of the course. Taylor’s work with video focuses primarily on the documentary form. Like the work of Bump Halbritter (see “Big Questions, Small Works, Lots of Layers” below), the strength of Taylor’s pedagogy is that it successfully situates the students within a generative sweet spot of aiming for high-production values, but with an equal emphasis on ease of entry into unfamiliar technological territory. The work that emerges from Taylor’s class provides a real sense of what’s possible for undergraduate video-makers with reasonable access to prosumer technologies and a developing sense rhetorical purpose.
+Assembled by Lynn Tomlinson and Diane Kuthy, the “Animating Imaginary Worlds” kit offers students and teachers at multiple instructional levels a how-to for producing animated videos using cut-out, handmade materials.  Recontextualization operates at the core of Tomlinson and Kuthy's project. The use of readily available video making technologies via mobile devices helps recontextualize these ubiquitous digital tools as means of knowledge production rather than simply consumption. Of particular interest is the “handmade-meets-digital” nature of the project. The use of lo-fi animation materials such as paper, scissors, pens, and paint in relation to digital tools recontextualizes animation as an accessible and rhetorically flexible art not restricted to the use of expensive software or knowing how to write code. The kit includes guides for making hand-cut animations, a tutorial for the stop motion app OSnap!, a contextualizing essay, and samples of student work.
 
 ### "DV Lab: Documenting Science through Video and New Media"
 ![screenshotMITdvlab.jpg](http://siteslab.org/keywordvideo/screenshotMITdvlab.jpg)
