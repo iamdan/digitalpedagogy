@@ -34,11 +34,11 @@ University of North Carolina at Chapel Hill
 
 It seems counter intuitive, but digital video provides a simple path for integrating digital composing into a class. Traditionally, video production required costly equipment and high levels of technical competency. In the last two decades, however, the barriers have decreased dramatically. We might trace some of this shift to attempts to strip motion picture production to its essentials. The Dogme films, *The Celebration* (1998) and *The Idiots* (1998), were each shot entirely with prosumer grade digital video cameras. The broader public experienced a similar shift with the introduction of Apple’s iMovie (1999), the development of smart phones, and the creation of YouTube (2005). Today, creating and distributing digital videos presents no more (and sometimes fewer) challenges than developing websites, composing podcasts, or designing visuals with image editors.
 
-One response to this growth of digital video has been to seek resonances between video production and writing in general. From this perspective, the process(es) of video production and writing largely remediate and support each other. Here we see an embrace of the traditional documentary form and its related genres, such as the cinematic essay, as in films like Barbara Kopple’s *Hoop Dreams* (1994) or Morgan Spurlock’s reality-television-esque *Super Size Me* (2004). We might call this approach the “audio-visual writing” perspective. Within this perspective, rhetoric comes to the fore as the attendant pedagogies foreground concepts like audience, purpose, genre, and medium. This perspective embodies what John Tinnell calls a “digital tools” approach through which video technologies are largely understood as something to be harnessed for the goals of rhetorical intent (123). This position, however, generally conflates analog and digital moving image-making processes. The digital simply provides a level of ease and access unavailable to the general public in the age of celluloid motion pictures.
+One response to this growth of digital video has been to seek resonances between video production and writing in general. From this perspective, the process(es) of video production and writing largely remediate and support each other. Here we see an embrace of the traditional documentary form and its related genres, such as the cinematic essay, as in films like Sarah Polley’s *Stories We Tell* (2013) or Morgan Spurlock’s reality-television-esque *Super Size Me* (2004). We might call this approach the “audio-visual writing” perspective. Within this perspective, rhetoric comes to the fore as the attendant pedagogies foreground concepts like audience, purpose, genre, and medium. This perspective embodies what John Tinnell calls a “digital tools” approach through which video technologies are largely understood as something to be harnessed for the goals of rhetorical intent (123). This position, however, generally conflates analog and digital moving image-making processes. The digital simply provides a level of ease and access unavailable to the general public in the age of celluloid motion pictures.
 
-Another response is to see digitization as creating entirely new possibities for what constitutes the moving image and its channels for communication. From this perspective, we see an embrace of alternative modes of messaging, algorithmic processes, and networks of circulation. We loosely call this perspective “post-cinematic,” an approach oriented more toward working beyond the symbolic and even beyond the capacities for human perception. Examples include the creation and distribution of moving images in social media networks, Florian Thalhofer’s Korsakow system (an algorithmically driven program for creating films), the virtual spaces of digitally rendered games, the myriad CCTV cameras and networks in our worlds, even the movements on our smart phone and desktop screens. A pedagogical embrace of the post-cinematic is concerned not only with how new technologies expand a tool kit for composing but also with how the technologies themselves create new forms and exert agency in the composition and pedagogical scenario.
+Another response is to see digitization as creating entirely new possibities for what constitutes the moving image and its channels for communication. From this perspective, we see an embrace of alternative modes of messaging, algorithmic processes, and networks of circulation. Following Adrian Miles, we loosely call this perspective “post-industrial.” This approach orients more toward working beyond the primarily symbolic and even beyond the capacities for human perception. Examples include the creation and distribution of moving images in social media networks, Florian Thalhofer’s Korsakow system (an algorithmically driven program for creating films), the virtual spaces of digitally rendered games, the myriad CCTV cameras and networks in our worlds, even the movements on our smart phone and desktop screens. A pedagogical embrace of the post-industrial is concerned not only with how new technologies expand a tool kit for composing but also with how the technologies themselves create new forms and exert agency in the composition and pedagogical scenario.
 
-Ultimately, we see audio-visual writing and the post-cinematic less as strict oppositions and more as overlapping pedagogical orientations that both yield important payoffs. While engaging with either mode, students deal directly with concerns of intellectual property. They experiment with a range of literacies and composing strategies that engage the alphabet, sound, visuals, and motion. They also consider human-technology relations. And they find high levels of engagement and motivation in activities as they rise to new intellectual challenges and work in ways that resonate with their daily lives.
+Ultimately, we see audio-visual writing and the post-industrial less as strict oppositions and more as overlapping pedagogical orientations that both yield important payoffs. While engaging with either mode, students deal directly with concerns of intellectual property. They experiment with a range of literacies and composing strategies that engage the alphabet, sound, visuals, and motion. They also consider human-technology relations. And they find high levels of engagement and motivation in activities as they rise to new intellectual challenges and work in ways that resonate with their daily lives.
 
 Given these familiar and experimental possibilities combined with the increasing ease of creating video projects, it’s  surprising that there is not more widespread adoption of video assignments as part of digital pedagogy. In some ways, this can be explained by the expectations for production values associated with digital video. If we conceive of digital video assignments in terms of film production, then we are confronted with the need for cameras, microphones, lighting, editing, and a good deal of time learning these processes. Additionally, as we move away from the relatively stable ground of film production into the realms of smartphone cameras, screen capturing, game spaces, and algorithms, we risk feeling lost in the more ephemeral, even autopoetic, qualities of a digitally networked composing. A more productive approach to video in digital pedagogy is to work somewhere between these two extremes. By lowering the entry difficulties to creating video projects but maintaining reasonable expectations for production quality (easily accomplished with prosumer technologies and basic instruction) and by embracing a willingness to experiment with video as something more than just a user-friendly means of extending traditional writing, we can create more opportunities for integrating digital video in our classrooms.
 
@@ -123,7 +123,7 @@ With this site, Adrian Miles presents his curriculum for “post-industrial vide
 * Copy of Artifact: forthcoming
 * Creator: Justin Lincoln (Whitman College)
 
-This resource and the pedagogy it represents fall squarely on the post-cinematic side of our digital video continuum. Assignments range from glitching images to creating processing-based animations to remix video responses. The materials provide an invitation to experiment with the dynamics of signal and noise, using videos to explore the role of machinic processing and social media in composing. Of particular interest is the way Lincoln’s pedagogy enacts a video paradigm built around the shifting relationships between humans and technology. While instructors might cull assignments or examples from the Tumblr stream, the site (and Lincoln’s [Notational Tumblr](http://notational.tumblr.com) might best be used as illustrative examples/enactments of how video pedagogy can help students and instructors participate in ever-expanding networks of media, devices, machines, and humans.
+This resource and the pedagogy it represents fall squarely on the post-industrial side of our digital video continuum. Assignments range from glitching images to creating processing-based animations to remix video responses. The materials provide an invitation to experiment with the dynamics of signal and noise, using videos to explore the role of machinic processing and social media in composing. Of particular interest is the way Lincoln’s pedagogy enacts a video paradigm built around the shifting relationships between humans and technology. While instructors might cull assignments or examples from the Tumblr stream, the site (and Lincoln’s [Notational Tumblr](http://notational.tumblr.com) might best be used as illustrative examples/enactments of how video pedagogy can help students and instructors participate in ever-expanding networks of media, devices, machines, and humans.
 
 ### "Introduction to Humanities Physical Computing w/Arduino and Processing"
 ![screenshotRIEDER.jpg](http://siteslab.org/keywordvideo/screenshotRIEDER.jpg)
@@ -149,32 +149,39 @@ Halbritter, Bump. “Big Questions, Small Works, Lots of Layers: Documentary Vid
 
 ## WORKS CITED
 
-Dogme -- Celebration
+Anderson, Daniel and Emily Shepard. *Ilit: An E-poetry, E-portfolio Exhibit*. 2017. ilit.altscholarship.com. 
 
-Dogme -- Idiots
+Blouke, Cate et al.“Lesson Plans - Video.” *The Digital Writing and Research Lab*. U of Texas at Austin, 2012 - 2015, http://lessonplans.dwrl.utexas.edu/pedagogical-goals-digital-literacy/video. 
 
-Kopple Hoop Dreams
+*Festen (The Celebration)*. Directed by Thomas Vintenberg. Scanbox, 1998.
 
-Spurlock Super Size Me
+Hodgson, Justin et al. *The Jump: Journal of Undergraduate Media Projects*. U of Texas at Austin, http://jump.dwrl.utexas.edu. 
 
-Digital Writing and Research Lab
+*The Idiots*. Directed by Lars von Trier. October, 1998.
 
-Jump Journal
+Kuhn, Virginia. “Filmic Texts and the Rise of the Fifth Estate.” *International Journal of Learning and Media*, vol 2, issue 2-3, 2010, scalar.usc.edu/anvc/kuhn/index. 
 
-North Carolina Stories
+Lincoln, Justin. *Iterative Progress: Beginning New Genres*. Whitman College, 2014, fall2014beginningnewgenres.tumblr.com/. 
 
-DV Lab
+Miles, Adrian. *Post-Industrial Video 0.5*. 2017, vogmae.net.au/piv/. 
 
-Ilit
+Proctor, Jennifer. "Teaching Resources." *Jennifer Proctor: Film | Video | New Media*, 2006 - 2017, cargo.jenniferproctor.com.
 
-Filmic Texts
+Reider, David M. *Introduction to Humanities Computing w/Arduino and Processing Syllabus*. 2015. Department of English, North Carolina State U, Raleigh. PDF.
 
-Teaching Resources --Proctor
+*Stories We Tell*. Directed by Sarah Polley. Roadside, 2013.
 
-Post-Industrial Video
+*Super Size Me*. Directed by Morgan Spurlock. Samuel Goldwyn, 2004.
 
-Iterative Progress
-
-Intro to Humanities Physical Computing
+Taylor, Todd. *North Carolina Stories*. U of North Carolina at Chapel Hill, 2014, www.unc.edu/~twtaylor/318/. 
 
 Tinnell, John. "Post-Media Occupations for Writing Theory: From Augmentation to Autopoiesis." *Ecology, Writing Theory, and New Media*. Ed. Sidney L. Dobrin, New York: Routledge, 2012. Print.
+
+Waley, Christine and Chris Boebel. *DV Lab: Documenting Science through Video and New Media*. MIT, ocw.mit.edu/courses/anthropology/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/index.htm. 
+
+
+
+
+
+
+
