@@ -173,9 +173,9 @@ Reider, David M. *Introduction to Humanities Computing w/Arduino and Processing 
 
 *Super Size Me*. Directed by Morgan Spurlock. Samuel Goldwyn, 2004.
 
-Taylor, Todd. *North Carolina Stories*. U of North Carolina at Chapel Hill, 2014, www.unc.edu/~twtaylor/318/. 
-
 Tinnell, John. "Post-Media Occupations for Writing Theory: From Augmentation to Autopoiesis." *Ecology, Writing Theory, and New Media*. Ed. Sidney L. Dobrin, New York: Routledge, 2012. Print.
+
+Tomlinson, Lynn and Diane Kuthy. "Animating Imaginary Worlds: A Digital-Meets-Handmade Animation Workshop Kit." Towson, University, http://hyperrhiz.io/hyperrhiz13/workshops-kits/imaginary-worlds.html.
 
 Waley, Christine and Chris Boebel. *DV Lab: Documenting Science through Video and New Media*. MIT, ocw.mit.edu/courses/anthropology/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/index.htm. 
 
