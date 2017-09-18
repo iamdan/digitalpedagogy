@@ -63,7 +63,7 @@ This collection from UT-Austin’s Digital Writing and Research Lab (DWRL) offer
 Geared toward student multimedia, *The Jump* is a great resource for instructors interested in helping undergraduates publish video-based research. Each project is accompanied by an author’s statement that includes reflections on the composing process. Publications also include pedagogical materials that support the student projects: assignments, information about the course, *etc*. And each project is accompanied by an instructor reflection, offering more details about the pedagogical dimensions of the projects. Of particular interest are projects such as Megan Cross’s “Re-Presentation: Kate Chopin’s The Story of an Hour.” This project, a video made with PowerPoint, reminds us that when we talk about video, we are not simply talking about iMovie or cameras. Many contemporary compositional tools can be appropriated for working with the moving image. This resource might provide an authentic publishing venue for video projects. It also provides a wealth of student examples and sample instructional materials.
 
 ### "Animating Imaginary Worlds: A Digital-Meets-Handmade Animation Workshop Kit"
-![screenshotAnimatingImaginaryWorlds.jpeg](http://siteslab.org/keywordvideo/screenshotAnimatingImaginaryWorlds.jpeg)
+![screenshotAnimatingImaginaryWorlds.jpeg](http://siteslab.org/keywordvideo/screenshotAnimatingImaginaryWorlds.jpg)
 
 * Source URL: <http://hyperrhiz.io/hyperrhiz13/workshops-kits/imaginary-worlds.html>
 * Copy of Artifact: forthcoming
