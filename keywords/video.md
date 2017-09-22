@@ -63,13 +63,13 @@ This collection from UT-Austin’s Digital Writing and Research Lab (DWRL) offer
 Geared toward student multimedia, *The Jump* is a great resource for instructors interested in helping undergraduates publish video-based research. Each project is accompanied by an author’s statement that includes reflections on the composing process. Publications also include pedagogical materials that support the student projects: assignments, information about the course, *etc*. And each project is accompanied by an instructor reflection, offering more details about the pedagogical dimensions of the projects. Of particular interest are projects such as Megan Cross’s “Re-Presentation: Kate Chopin’s The Story of an Hour.” This project, a video made with PowerPoint, reminds us that when we talk about video, we are not simply talking about iMovie or cameras. Many contemporary compositional tools can be appropriated for working with the moving image. This resource might provide an authentic publishing venue for video projects. It also provides a wealth of student examples and sample instructional materials.
 
 ### "Animating Imaginary Worlds: A Digital-Meets-Handmade Animation Workshop Kit"
-![screenshotAnimatingImaginaryWorlds.jpeg](http://siteslab.org/keywordvideo/screenshotAnimatingImaginaryWorlds.jpg)
+![screenshotAnimatingImaginaryWorlds.jpeg](http://siteslab.org/keywordvideo/screenshotAnimatingImaginaryWorlds.jpeg)
 
 * Source URL: <http://hyperrhiz.io/hyperrhiz13/workshops-kits/imaginary-worlds.html>
 * Copy of Artifact: forthcoming
 * Creator: Lynn Tomlinson (Towson University) and Diane Kuthy (Towson University)
 
-Assembled by Lynn Tomlinson and Diane Kuthy, the “Animating Imaginary Worlds” kit offers students and teachers at multiple instructional levels a how-to for producing animated videos using cut-out, handmade materials.  Recontextualization operates at the core of Tomlinson and Kuthy's project. The use of readily available video making technologies via mobile devices helps recontextualize these ubiquitous digital tools as means of knowledge production rather than simply consumption. Of particular interest is the “handmade-meets-digital” nature of the project. The use of lo-fi animation materials such as paper, scissors, pens, and paint in relation to digital tools recontextualizes animation as an accessible and rhetorically flexible art not restricted to the use of expensive software or knowing how to write code. The kit includes guides for making hand-cut animations, a tutorial for the stop motion app OSnap!, a contextualizing essay, and samples of student work.
+Assembled by Lynn Tomlinson and Diane Kuthy, “Animating Imaginary Worlds” offers students and teachers at multiple instructional levels a how-to for producing animated videos using cut-out, handmade materials.  Recontextualization operates at the core of this resource. The use of readily available video making technologies via mobile devices helps recontextualize these ubiquitous digital tools as means of knowledge production rather than simply consumption. Of particular interest is the “digital-meets-handmade” nature of the project. The use of lo-fi materials like paper, scissors, and paint recontextualizes animation as a rhetorically flexible art not restricted by access to expensive software or knowing how to write code. The ability for students to work with a historically important genre of moving image is of real value here. Kit includes guides for making hand-cut animations, a tutorial for the stop motion app OSnap!, a contextualizing essay, and samples of student work.
 
 ### "DV Lab: Documenting Science through Video and New Media"
 ![screenshotMITdvlab.jpg](http://siteslab.org/keywordvideo/screenshotMITdvlab.jpg)
@@ -149,23 +149,23 @@ Halbritter, Bump. “Big Questions, Small Works, Lots of Layers: Documentary Vid
 
 ## WORKS CITED
 
-Anderson, Daniel and Emily Shepard. *Ilit: An E-poetry, E-portfolio Exhibit*. 2017. ilit.altscholarship.com. 
+Anderson, Daniel and Emily Shepard. *Ilit: An E-poetry, E-portfolio Exhibit*. 2017. ilit.altscholarship.com. Accessed 15 Sept 2017. 
 
-Blouke, Cate et al.“Lesson Plans - Video.” *The Digital Writing and Research Lab*. U of Texas at Austin, 2012 - 2015, http://lessonplans.dwrl.utexas.edu/pedagogical-goals-digital-literacy/video. 
+Blouke, Cate et al.“Lesson Plans - Video.” *The Digital Writing and Research Lab*. U of Texas at Austin, 2012 - 2015, http://lessonplans.dwrl.utexas.edu/pedagogical-goals-digital-literacy/video. Accessed 15 Sept 2017. 
 
 *Festen (The Celebration)*. Directed by Thomas Vintenberg. Scanbox, 1998.
 
-Hodgson, Justin et al. *The Jump: Journal of Undergraduate Media Projects*. U of Texas at Austin, http://jump.dwrl.utexas.edu. 
+Hodgson, Justin et al. *The Jump: Journal of Undergraduate Media Projects*. U of Texas at Austin, 2010 - 2015, jumpplus.net. Accessed 15 Sept 2017. 
 
 *The Idiots*. Directed by Lars von Trier. October, 1998.
 
-Kuhn, Virginia. “Filmic Texts and the Rise of the Fifth Estate.” *International Journal of Learning and Media*, vol 2, issue 2-3, 2010, scalar.usc.edu/anvc/kuhn/index. 
+Kuhn, Virginia. “Filmic Texts and the Rise of the Fifth Estate.” *International Journal of Learning and Media*, vol 2, issue 2-3, 2010, scalar.usc.edu/anvc/kuhn/index. Accessed 15 Sept 2017. 
 
-Lincoln, Justin. *Iterative Progress: Beginning New Genres*. Whitman College, 2014, fall2014beginningnewgenres.tumblr.com/. 
+Lincoln, Justin. *Iterative Progress: Beginning New Genres*. Whitman College, 2014, fall2014beginningnewgenres.tumblr.com/. Accessed 15 Sept 2017. 
 
 Miles, Adrian. *Post-Industrial Video 0.5*. 2017, vogmae.net.au/piv/. 
 
-Proctor, Jennifer. "Teaching Resources." *Jennifer Proctor: Film | Video | New Media*, 2006 - 2017, cargo.jenniferproctor.com.
+Proctor, Jennifer. "Teaching Resources." *Jennifer Proctor: Film | Video | New Media*, 2006 - 2017, cargo.jenniferproctor.com. Accessed 15 Sept 2017. 
 
 Reider, David M. *Introduction to Humanities Computing w/Arduino and Processing Syllabus*. 2015. Department of English, North Carolina State U, Raleigh. PDF.
 
@@ -175,13 +175,6 @@ Reider, David M. *Introduction to Humanities Computing w/Arduino and Processing 
 
 Tinnell, John. "Post-Media Occupations for Writing Theory: From Augmentation to Autopoiesis." *Ecology, Writing Theory, and New Media*. Ed. Sidney L. Dobrin, New York: Routledge, 2012. Print.
 
-Tomlinson, Lynn and Diane Kuthy. "Animating Imaginary Worlds: A Digital-Meets-Handmade Animation Workshop Kit." Towson, University, http://hyperrhiz.io/hyperrhiz13/workshops-kits/imaginary-worlds.html.
+Tomlinson, Lynn and Diane Kuthy. “Animating Imaginary Worlds: A Digital-Meets-Handmade Animation Workshop Kit.” *Kits, Plans, Schematics* a special issue of *Hyperrhiz: New Media Cultures*, vol. 13, 2015, hyperrhiz.io/hyperrhiz13/workshops-kits/imaginary-worlds.html. Accessed 15 Sept 2017. 
 
-Waley, Christine and Chris Boebel. *DV Lab: Documenting Science through Video and New Media*. MIT, ocw.mit.edu/courses/anthropology/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/index.htm. 
-
-
-
-
-
-
-
+Waley, Christine and Chris Boebel. *DV Lab: Documenting Science through Video and New Media*. MIT, ocw.mit.edu/courses/anthropology/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/index.htm. Accessed 15 Sept 2017. 
