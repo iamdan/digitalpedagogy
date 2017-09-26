@@ -99,7 +99,7 @@ Screenshot: ![screenshot](http://siteslab.org/keywordvideo/archive-ILIT.png)
 In these videos, students use screen capture technologies to reflect on their projects and composing processes. The resources are part of [Ilit](http://ilit.altscholarship.com), a site that collects the projects of students in an Introduction to Literary Studies course. As a means of learning about poetry, students developed multiple versions of electronic poems in video format. The site includes readings that scaffold the work and a number of assignments. Also of interest are the many reflections on the use of readymade materials in the video poems, a strategy that greatly reduces the production challenges of video-based assignments. And key among these portfolio videos are pieces reflecting on aspects of learning, creating meta commentary on the processes and payoffs of video pedagogy. (More of these kinds of video reflections are captured in the essay, “This is What We Did in Our Class,” listed in the additional resource section below.)
 
 ### "Filmic Texts and the Rise of the Fifth Estate"
-Screenshot: ![screenshot](http://siteslab.org/keywordvideo/-archiveFILMICTEXTS.jpg)
+Screenshot: ![screenshot](http://siteslab.org/keywordvideo/archive-FILMICTEXTS.jpg)
 
 * Artifact Type: course sites
 * Source URL: <http://scalar.usc.edu/anvc/kuhn/index>
