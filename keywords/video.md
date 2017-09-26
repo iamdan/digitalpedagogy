@@ -48,25 +48,25 @@ Given these familiar and experimental possibilities combined with the increasing
 
 ## CURATED ARTIFACTS
 
-### The Digital Writing and Research Lab
+### Disputing YouTube Takedowns
 ![screenshotDWRL.jpg](http://siteslab.org/keywordvideo/screenshotDWRL.jpg)
 
 * Artifact Type: lesson plans
-* Source URL: <http://lessonplans.dwrl.utexas.edu/pedagogical-goals-digital-literacy/video>
+* Source URL: <https://lessonplans.dwrl.utexas.edu/content/disputing-youtube-content-id-takedowns>
 * Copy of Artifact: forthcoming
 * Creators: Cate Blouke, Lisa Gulesserian, Jenny Howell, Rachel Mazique, Scott Nelson, Sarah Riddick, Michael Roberts, Laura Thain, and Beck Wise (University of Texas at Austin)
 
-This collection from UT-Austin’s Digital Writing and Research Lab (DWRL) offers assignments that range from doing rhetorical analysis of short videos to disputing YouTube content takedowns. Lessons offer clearly articulated pedagogical goals, technological requirements, suggestions for evaluation, and “timeline[s] for optimal use” within a curriculum. The lesson plans are pitched for both instructors and students. For instance, in the lesson “Transforming Video with Popcorn Maker” by Beck Wise, students are introduced to visual rhetoric as well as to an example of a web-based tool for remixing existing video content on the web. Lessons such as these provide a nice starting point for thinking about the goals and technologies for video projects within the context of more recent phenomena in video-making and culture. The DWRL’s Lesson Plan archive contains a wealth of additional starting point lessons related to many other themes relevant to the reception and making of video and moving images.
+This assignment from UT-Austin’s [Digital Writing and Research Lab](http://lessonplans.dwrl.utexas.edu/pedagogical-goals-digital-literacy/video) (DWRL) guides students as they explore intellectual property concerns related to digital video. The assignment provides clearly articulated pedagogical goals, technological requirements, suggestions for evaluation, and “timeline[s] for optimal use” within a curriculum. The DWRL’s Lesson Plan archive contains a wealth of additional starting point lessons related to many other themes relevant to the reception and making of video and moving images.  Lessons such as these provide a nice starting point for thinking about the goals and technologies for video projects within the context of more recent phenomena in video-making and culture.
 
-### *The JUMP* Journal
+### Re-presentation: Kate Chopin's The Story of an Hour
 ![screenshotJUMP.jpg](http://siteslab.org/keywordvideo/screenshotJUMP.jpg)
 
 * Artifact Type: student work
-* Source URL: <https://jumpplus.net>
+* Source URL: <https://jumpplus.net/re-presentation-kate-chopins-the-story-of-an-hour/>
 * Copy of Artifact: forthcoming
 * Creators: Justin Hodgson and The JUMP Collective (Indiana University and The University of Texas at Austin)
 
-Geared toward student multimedia, *The Jump* is a great resource for instructors interested in helping undergraduates publish video-based research. Each project is accompanied by an author’s statement that includes reflections on the composing process. Publications also include pedagogical materials that support the student projects: assignments, information about the course, *etc*. And each project is accompanied by an instructor reflection, offering more details about the pedagogical dimensions of the projects. Of particular interest are projects such as Megan Cross’s “Re-Presentation: Kate Chopin’s The Story of an Hour.” This project, a video made with PowerPoint, reminds us that when we talk about video, we are not simply talking about iMovie or cameras. Many contemporary compositional tools can be appropriated for working with the moving image. This resource might provide an authentic publishing venue for video projects. It also provides a wealth of student examples and sample instructional materials.
+Megan Cross’s “Re-Presentation: Kate Chopin’s The Story of an Hour” creates a video made with PowerPoint. It reminds us that when we talk about video, we are not simply talking about iMovie or cameras. Many contemporary compositional tools can be appropriated for working with the moving image. Geared toward student multimedia, [*The Jump*](https://jumpplus.net) is a great resource for instructors interested in helping undergraduates publish video-based research. Each project is accompanied by an author’s statement that includes reflections on the composing process. Publications also include pedagogical materials that support the student projects: assignments, information about the course, *etc*. And each project is accompanied by an instructor reflection, offering more details about the pedagogical dimensions of the projects. This resource might provide an authentic publishing venue for video projects. It also provides a wealth of student examples and sample instructional materials.
 
 ### "Animating Imaginary Worlds: A Digital-Meets-Handmade Animation Workshop Kit"
 ![screenshotAnimatingImaginaryWorlds.jpeg](http://siteslab.org/keywordvideo/screenshotAnimatingImaginaryWorlds.jpg)
