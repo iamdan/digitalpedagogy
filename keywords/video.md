@@ -31,7 +31,7 @@ University of North Carolina at Chapel Hill
 * published 
 
 ---
-### Cross-Reference Keywords:  Remix, Sound, Collaboration, Storytelling, Gaming, Affect, Fieldwork, Interface, Makerspaces, Poetry, Public, Visualization
+### Cross-Reference Keywords:  Remix, Sound, Collaboration, Storytelling, Gaming, Affect, Fieldwork, Interface, Makerspaces, Poetry, Public, Visualization, Eportfolio
 ---
 
 ## CURATORIAL STATEMENT
@@ -55,7 +55,7 @@ Screenshot: ![screenshot](http://siteslab.org/keywordvideo/archive-DWRL.jpg)
 * Source URL: <https://lessonplans.dwrl.utexas.edu/content/disputing-youtube-content-id-takedowns>
 * Permissions: Attribution-NonCommercial-ShareAlike CC BY-NC-SA
 * Creators: Cate Blouke, Lisa Gulesserian, Jenny Howell, Rachel Mazique, Scott Nelson, Sarah Riddick, Michael Roberts, Laura Thain, and Beck Wise (University of Texas at Austin)
-* Tags:
+* Tags: intellectual property
 
 This assignment from UT-Austin’s [Digital Writing and Research Lab](http://lessonplans.dwrl.utexas.edu/pedagogical-goals-digital-literacy/video) (DWRL) guides students as they explore intellectual property concerns related to digital video. The assignment provides clearly articulated pedagogical goals, technological requirements, suggestions for evaluation, and “timeline[s] for optimal use” within a curriculum. The DWRL’s Lesson Plan archive contains a wealth of additional starting point lessons related to many other themes relevant to the reception and making of video and moving images. Lessons such as these helpt to articulate the goals and technologies for video projects within the context of more recent phenomena in video-making and culture.
 
@@ -88,7 +88,7 @@ Screenshot: ![screenshot](http://siteslab.org/keywordvideo/archive-MITdvlab.jpg)
 * Source URL: <https://ocw.mit.edu/courses/anthropology/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/lecture-and-lab-videos/>
 * Permissions: Attribution-NonCommercial-ShareAlike CC BY-NC-SA
 * Creators: Christine Waley and Chris Boebel (Massachusetts Institute of Technology and MIT OpenCourseWare)
-* Tags:
+* Tags: interdisciplinary
 
 These lecture and lab videos provide ample introduction for the instructor to the kinds of issues that arise when having students do documentary and video work. Video lectures cover topics such as “Documentary and Ways of Seeing,” while lab videos address topics such as “Introduction to the Camera” and “Interviewing Techniques.” The  videos are part of the site, [“DV Lab: Documenting Science through Video and New Media,”](http://ocw.mit.edu/courses/anthropology/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/index.htm) which explores the intersections of science and technology studies and documentary film practice. The site also includes materials that deal with the ethics and legality of documentary film work, including items on “best practices in fair use” and a piece titled, “The Photographer’s Right.” The site is of particular interest to those thinking about video pedagogy in terms of interdisciplinarity.
 
@@ -99,7 +99,7 @@ Screenshot: ![screenshot](http://siteslab.org/keywordvideo/archive-ILIT.png)
 * Source URL: <http://ilit.altscholarship.com/reflecting-learning>
 * Permissions: 
 * Creators: Daniel Anderson, Emily Shepherd, and students (University of North Carolina at Chapel Hill)
-* Tags:
+* Tags: portfolio; reflection; poetry
 
 In these videos, students use screen capture technologies to reflect on their projects and composing processes. The resources are part of [Ilit](http://ilit.altscholarship.com), a site that collects the projects of students in an Introduction to Literary Studies course. As a means of learning about poetry, students developed multiple versions of electronic poems in video format. The site includes readings that scaffold the work and a number of assignments. Also of interest are the many reflections on the use of readymade materials in the video poems, a strategy that greatly reduces the production challenges of video-based assignments. And key among these portfolio videos are pieces reflecting on aspects of learning, creating meta commentary on the processes and payoffs of video pedagogy. (More of these kinds of video reflections are captured in the essay, “This is What We Did in Our Class,” listed in the additional resource section below.)
 
@@ -110,7 +110,7 @@ Screenshot: ![screenshot](http://siteslab.org/keywordvideo/archive-FILMICTEXTS.j
 * Source URL: <http://scalar.usc.edu/anvc/kuhn/index>
 * Permissions: 
 * Creator: Virginia Kuhn (University of Southern California) and the *International Journal of Learning and Media*
-* Tags: 
+* Tags: argument; analysis
 
 This site captures and reports on the work of a class: IML 340, "The Praxis of New Media." The focus is on the intellectual components of digital video, especially the argumentative and rhetorical affordances of video modes and their connections to digital literacy. Particularly valuable within the Digital Pedagogy thread is Kuhn’s discussion of digital argument, which she defines as argument “that is born-digital and uses the various affordances of emergent technologies intentionally.” Additionally, Kuhn challenges the notion that audio-visual media are too ephemeral for sustained analysis, arguing that digitization allows for the "patience that books possess." The site provides a valuable resource for reflecting on the intellectual benefits and challenges of doing work with video. Finally, Kuhn’s use of the Scalar platform for publication of the work invites speculation towards the role that such platforms might play in video work, in terms of both delivery and analysis.
 
