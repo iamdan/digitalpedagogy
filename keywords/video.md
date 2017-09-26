@@ -51,6 +51,7 @@ Given these familiar and experimental possibilities combined with the increasing
 ### The Digital Writing and Research Lab
 ![screenshotDWRL.jpg](http://siteslab.org/keywordvideo/screenshotDWRL.jpg)
 
+* Artifact Type: lesson plans
 * Source URL: <http://lessonplans.dwrl.utexas.edu/pedagogical-goals-digital-literacy/video>
 * Copy of Artifact: forthcoming
 * Creators: Cate Blouke, Lisa Gulesserian, Jenny Howell, Rachel Mazique, Scott Nelson, Sarah Riddick, Michael Roberts, Laura Thain, and Beck Wise (University of Texas at Austin)
@@ -60,6 +61,7 @@ This collection from UT-Austin’s Digital Writing and Research Lab (DWRL) offer
 ### *The JUMP* Journal
 ![screenshotJUMP.jpg](http://siteslab.org/keywordvideo/screenshotJUMP.jpg)
 
+* Artifact Type: student work
 * Source URL: <https://jumpplus.net>
 * Copy of Artifact: forthcoming
 * Creators: Justin Hodgson and The JUMP Collective (Indiana University and The University of Texas at Austin)
@@ -69,6 +71,7 @@ Geared toward student multimedia, *The Jump* is a great resource for instructors
 ### "Animating Imaginary Worlds: A Digital-Meets-Handmade Animation Workshop Kit"
 ![screenshotAnimatingImaginaryWorlds.jpeg](http://siteslab.org/keywordvideo/screenshotAnimatingImaginaryWorlds.jpg)
 
+* Artifact Type: lesson plans
 * Source URL: <http://hyperrhiz.io/hyperrhiz13/workshops-kits/imaginary-worlds.html>
 * Copy of Artifact: forthcoming
 * Creator: Lynn Tomlinson (Towson University) and Diane Kuthy (Towson University)
@@ -78,6 +81,7 @@ Assembled by Lynn Tomlinson and Diane Kuthy, “Animating Imaginary Worlds” of
 ### "DV Lab: Documenting Science through Video and New Media"
 ![screenshotMITdvlab.jpg](http://siteslab.org/keywordvideo/screenshotMITdvlab.jpg)
 
+* Artifact Type: assignments
 * Source URL: <http://ocw.mit.edu/courses/anthropology/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/index.htm>
 * Copy of Artifact: forthcoming
 * Creators: Christine Waley and Chris Boebel (Massachusetts Institute of Technology and MIT OpenCourseWare)
@@ -87,6 +91,7 @@ Made available through MIT’s Open Courseware project, “DV Lab: Documenting S
 ### "Ilit"
 ![screenshotILIT.png](http://siteslab.org/keywordvideo/screenshotILIT.png)
 
+* Artifact Type: student work
 * Source URL: <http://ilit.altscholarship.com>
 * Copy of Artifact: forthcoming
 * Creators: Daniel Anderson, Emily Shepherd, and students (University of North Carolina at Chapel Hill)
@@ -96,6 +101,7 @@ Ilit collects the projects and reflections of students in an Introduction to Lit
 ### "Filmic Texts and the Rise of the Fifth Estate"
 ![screenshotFILMICTEXTS.jpg](http://siteslab.org/keywordvideo/screenshotFILMICTEXTS.jpg)
 
+* Artifact Type: course sites
 * Source URL: <http://scalar.usc.edu/anvc/kuhn/index>
 * Copy of Artifact: forthcoming
 * Creator: Virginia Kuhn (University of Southern California) and the *International Journal of Learning and Media*
@@ -105,6 +111,7 @@ This site captures and reports on the work of a class: IML 340, "The Praxis of N
 ### "Teaching Resources for Video and Emerging Media"
 ![screenshotPROCTOR.jpg](http://siteslab.org/keywordvideo/screenshotPROCTOR.jpg)
 
+* Artifact Type: assignments
 * Source URL: <http://cargo.jenniferproctor.com/Teaching-Resources>
 * Copy of Artifact: forthcoming
 * Creator: Jennifer Proctor (University of Michigan, Dearborn)
@@ -114,6 +121,7 @@ Jennifer Proctor’s “Teaching Resources” page offers a range of materials i
 ### "Post-Industrial Video 0.5"
 ![screenshotPIV.jpg](http://siteslab.org/keywordvideo/screenshotPIV.jpg)
 
+* Artifact Type: teaching guidelines
 * Source URL: <http://vogmae.net.au/piv/>
 * Copy of Artifact: forthcoming
 * Creator: Adrian Miles (RMIT University, Melbourne)
@@ -123,6 +131,7 @@ With this site, Adrian Miles presents his curriculum for “post-industrial vide
 ### "Iterative Progress"
 ![screenshotNEWGENRES.jpg](http://siteslab.org/keywordvideo/screenshotNEWGENRES.jpg)
 
+* Artifact Type: course sites
 * Source URL: <http://fall2014beginningnewgenres.tumblr.com/>
 * Copy of Artifact: forthcoming
 * Creator: Justin Lincoln (Whitman College)
@@ -132,6 +141,7 @@ This resource and the pedagogy it represents fall squarely on the post-industria
 ### "Introduction to Humanities Physical Computing w/Arduino and Processing"
 ![screenshotRIEDER.jpg](http://siteslab.org/keywordvideo/screenshotRIEDER.jpg)
 
+* Artifact Type: syllabi
 * Source URL: <http://siteslab.org/resources/RIEDER_ENG583-798_FALL2011.pdf>
 * Copy of Artifact: forthcoming
 * Creator: David M. Rieder (North Carolina State University)
