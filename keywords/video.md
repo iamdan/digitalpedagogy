@@ -48,7 +48,7 @@ Given these familiar and experimental possibilities combined with the increasing
 
 ## CURATED ARTIFACTS
 
-### "Disputing YouTube Takedowns"
+### "Disputing YouTube Content ID Takedowns"
 ![screenshotDWRL.jpg](http://siteslab.org/keywordvideo/screenshotDWRL.jpg)
 
 * Artifact Type: lesson plans
